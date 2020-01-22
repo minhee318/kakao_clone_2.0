@@ -39,6 +39,24 @@
 .friend .chat__timestamp {
   font-size: 12px;
 }
+.friend__column__last {
+  display: block;
+}
+
+.chat__badge {
+  color: white;
+  background-color: #e26042;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  font-size: 10px;
+  position: relative;
+  left: 32px;
+  margin-top: 5px;
+}
 .friend .friend__now-listening {
   padding: 5px 10px;
   border-radius: 15px;
